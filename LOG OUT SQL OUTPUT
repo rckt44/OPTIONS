@@ -1,0 +1,2 @@
+*options fullstimer sastrace=',,,db' sastraceloc=saslog;
+options fullstimer sastrace='s' sastraceloc=saslog nostsuffix;
